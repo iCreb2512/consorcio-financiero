@@ -1,0 +1,27 @@
+PASS | Rechazo de credenciales incorrectas
+PASS | Alta de consorcio
+PASS | Consorcio duplicado
+PASS | Institución asociada a un consorcio
+PASS | Alta de cliente
+PASS | DUI duplicado
+PASS | DUI mal formado
+PASS | Fecha futura
+PASS | Municipio inexistente
+PASS | Afiliación y muchos a muchos
+PASS | Afiliación duplicada
+PASS | Borrado de institución con cartera bloqueado
+PASS | Borrado de consorcio con institución bloqueado
+PASS | Edición persistente
+PASS | Filtro de cartera
+PASS | Edición concurrente detectada
+PASS | Paginación de 50 sin repetición
+PASS | Texto SQL tratado como dato
+PASS | Consulta no puede modificar
+PASS | Consulta no accede a usuarios
+PASS | Operador no administra consorcios
+PASS | Operador no puede eliminar
+PASS | Administrador protege su cuenta
+PASS | Auditoría transaccional
+PASS | Retiro de asociaciones
+PASS | Borrado sin relaciones
+RESULTADO: 26 pruebas correctas. 2026-09-12T18:33:07.8589318-06:00

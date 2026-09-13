@@ -1,0 +1,1 @@
+Server=.\SQLEXPRESS;Database=ConsorcioAcademico;Integrated Security=True;Encrypt=True;TrustServerCertificate=True;Connect Timeout=8;
